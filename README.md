@@ -34,6 +34,11 @@ User can:
 
 ---
 
+---------------------------------------------------------------
+console based output:
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d6b06466-f002-445b-87ac-04aef7d0fb75" />
+
+
 # 🔥 Main Goal of this Project
 
 The main goal is NOT only to store student data.
