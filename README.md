@@ -522,3 +522,28 @@ you can build:
 * REST APIs
 
 using the SAME thinking 👍
+-------------------------------------------------------------
+
+to push this project into github i follow this steps:
+1. Open your project folder in File Explorer.
+
+2. Right click inside folder and open CMD/Terminal.
+
+3. Type `git init` to start Git in your project.
+
+4. Type `git add .` to add all project files.
+
+5. Type `git commit -m "Initial commit"` to save first version of project.
+
+6. Go to GitHub and create a new repository.
+
+7. Copy the GitHub repository URL.
+
+8. Type `git remote add origin YOUR_REPOSITORY_URL` to connect local project with GitHub.
+
+9. Type `git branch -M main` to create main branch.
+
+10. Type `git push -u origin main` to upload project to GitHub.
+
+11. Refresh GitHub page and your project will appear online.
+
